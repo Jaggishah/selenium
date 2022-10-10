@@ -1,0 +1,25 @@
+for css selector:
+ input.class
+
+for id :
+input#id
+
+for xpath:
+
+starts with //
+
+//input[@id='']
+
+remember internal information always be in single quotes
+and path must be mentioned in double quotes
+
+must perfer xpath over another selector
+
+tips:
+use selectorhub for other types of xpath
+
+-------------for command-------------
+get()
+title()
+current url
+page source
