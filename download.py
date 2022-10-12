@@ -14,3 +14,5 @@ driver.get("https://file-examples.com/index.php/sample-documents-download/sample
 # driver.implicitly_wait(10)
 
 driver.find_element(By.XPATH,"//*[@id='table-files']/tbody/tr[1]/td[5]/a").click()
+
+# for upload just find element and send keys and send file with location that is currrent in your window
